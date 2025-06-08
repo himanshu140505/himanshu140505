@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Himanshu Prasad Yadav | Builder | Learner<br>🎓 B.Tech CSE (AI & ML) <br>🔐 Cybersecurity Enthusiast | Bug Bounty Hunter<br>💡 Web Developer + AI systems for real-world impact<br>🛠️ Currently working on:<br> • Project X ( Web MERN stack)<br> • Bots for Discord & Telegram (Python)<br><br>🔍 Exploring:<br> • Python, C/C++, JavaScript, Java, MERN Stack<br> • Offensive Security & Vulnerability Research<br> • Ethical Hacking Projects & Smart India Hackathon Innovations<br><br>🧠 Motto: “Work in silence, let your builds speak.”<br>🎯 Dreaming big, coding daily, improving relentlessly.
+🚀 Himanshu Prasad Yadav | Builder | Learner<br>🎓 B.Tech CSE (AI & ML) <br>🔐 Cybersecurity Enthusiast | Bug Bounty Hunter<br>💡 Web Developer + AI systems for real-world impact<br><br>🧠 Motto: “Work in silence, let your builds speak.”<br>🎯 Dreaming big, coding daily, improving relentlessly.
 
 
 ## 🌐 Socials:
